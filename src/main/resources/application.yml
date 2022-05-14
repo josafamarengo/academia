@@ -4,7 +4,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/academia
     username: postgres
-    password: 240731
+    password: password
   jpa:
     show-sql: true
     hibernate:
